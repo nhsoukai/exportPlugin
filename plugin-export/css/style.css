@@ -1,0 +1,25 @@
+
+.clear_float{ clear: both; }
+
+.bloc_checkbox{
+	margin: 10px;
+	float: left;
+}
+
+#sortable{
+	width: 300px;
+}
+
+#sortable li{
+	height: 1.2em;
+	padding: 0.2em;
+}
+
+div.float{
+	float: left;
+	margin: 10px;
+}
+
+.sortable{
+	cursor: move;
+}
